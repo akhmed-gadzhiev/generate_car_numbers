@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 520 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="outtercant" transform="matrix(1,0,0,1,0,-185)">
+        <g id="hz1" transform="matrix(3.54331,0,0,3.54331,0,-470.512)">
+            <path d="M146.756,187.822C146.756,186.265 145.491,185 143.933,185L2.822,185C1.265,185 0,186.265 0,187.822L0,213.787C0,215.344 1.265,216.609 2.822,216.609L143.933,216.609C145.491,216.609 146.756,215.344 146.756,213.787L146.756,187.822Z"/>
+        </g>
+        <g id="hz2" transform="matrix(3.5296,0,0,3.47829,-2.7944,-461.202)">
+            <path d="M147.409,189.358C147.409,187.781 146.147,186.5 144.592,186.5L4.317,186.5C2.762,186.5 1.5,187.781 1.5,189.358L1.5,214.404C1.5,215.981 2.762,217.262 4.317,217.262L144.592,217.262C146.147,217.262 147.409,215.981 147.409,214.404L147.409,189.358Z" style="fill:white;"/>
+        </g>
+        <g id="hz3" transform="matrix(0.44,0,0,0.44,-3.6818,255.52)">
+            <path d="M60,-33C60,-30.239 57.761,-28 55,-28C52.239,-28 50,-30.239 50,-33C50,-35.761 52.239,-38 55,-38C57.761,-38 60,-35.761 60,-33Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+        </g>
+        <g id="hz4" transform="matrix(0.44,0,0,0.44,473.318,255.52)">
+            <path d="M60,-33C60,-30.239 57.761,-28 55,-28C52.239,-28 50,-30.239 50,-33C50,-35.761 52.239,-38 55,-38C57.761,-38 60,-35.761 60,-33Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+        </g>
+    </g>
+    <g id="hz5" transform="matrix(1,0,0,1,0,-0.000105075)">
+        <g id="hz6" transform="matrix(0.99781,0,0,0.978297,-23.1622,1.1216)">
+            <path d="M382.552,4.697L381.693,7.384L385.144,7.405C388.872,7.268 393.259,10.637 393.259,15.08L393.259,96.785C393.259,101.228 389.734,104.81 385.357,104.81L382.552,104.81L382.552,106.905L406.259,106.905L406.259,105.173C402.181,104.846 398.992,101.401 398.992,97.175L398.992,15.47C398.992,11.244 402.181,7.808 406.259,7.481L406.259,4.697L382.552,4.697Z" style="fill-rule:nonzero;"/>
+        </g>
+        <g id="hz7" transform="matrix(1,0,0,0.982226,-0.515227,0.902111)">
+            <path d="M514.329,20.381C514.329,9.188 510.403,5.19 499.409,5.19L21.622,5.19C10.628,5.19 6.702,9.188 6.702,20.381L6.702,91.809C6.702,103.002 10.628,107 21.622,107L499.409,107C510.403,107 514.329,103.002 514.329,91.809L514.329,20.381Z" style="fill:none;stroke:black;stroke-width:4.87px;"/>
+        </g>
+    </g>
+    <g id="numbers" transform="matrix(1,0,0,1,0,-0.000105075)">
+        <g transform="matrix(0.956716,0,0,0.956716,407.217,98.3673)">
+            <g id="text3013">
+                <g id="rus">
+                    <text id="rus1" serif:id="rus" x="0px" y="0px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:28.222px;">R</text>
+                    <g transform="matrix(1,0,0,1,19.596,0)">
+                        <text id="rus2" serif:id="rus" x="0px" y="0px" style="font-family:'ArialRoundedMTBold', 'Arial Rounded MT Bold', sans-serif;font-size:28.222px;">US</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1.1028,0,0,1.1028,37.3854,94.1178)">
+            <g id="_-text3005" serif:id="#text3005">
+                <text id="plate0" x="0px" y="0px" style="font-family:'RoadNumbers';font-size:106.68px;">M</text>
+            </g>
+        </g>
+        <g transform="matrix(1.07244,0,0,1.07244,415.492,71.7948)">
+            <g id="_-text3009" serif:id="#text3009">
+                <text id="plate6" x="0px" y="0px" style="font-family:'RoadNumbers';font-size:84.455px;">3</text>
+            </g>
+        </g>
+        <g transform="matrix(1.07244,0,0,1.07244,378.492,71.7948)">
+            <g id="_-text30091" serif:id="#text3009">
+                <text id="plate8" serif:id="plate6" x="0px" y="0px" style="font-family:'RoadNumbers';font-size:84.455px;">3</text>
+            </g>
+        </g>
+        <g transform="matrix(1.12453,0,0,1.11389,249.625,93.5247)">
+            <g id="_-text3005-0" serif:id="#text3005-0">
+                <text id="plate4" x="0px" y="0px" style="font-family:'RoadNumbers';font-size:106.7px;">A</text>
+            </g>
+        </g>
+        <g transform="matrix(1.12453,0,0,1.11389,300.877,93.5247)">
+            <g id="_-text3005-9" serif:id="#text3005-9">
+                <text id="plate5" x="0px" y="0px" style="font-family:'RoadNumbers';font-size:106.7px;">A</text>
+            </g>
+        </g>
+        <g transform="matrix(1.11663,0,0,1.11663,91.682,94.9573)">
+            <g id="_-text3005-01" serif:id="#text3005-01">
+                <text id="plate1" x="0px" y="0px" style="font-family:'RoadNumbers';font-size:106.68px;">9</text>
+            </g>
+        </g>
+        <g transform="matrix(1.11314,0,0,1.11314,194.496,94.1146)">
+            <g id="_-text3005-011" serif:id="#text3005-01">
+                <text id="plate3" x="0px" y="0px" style="font-family:'RoadNumbers';font-size:106.68px;">6</text>
+            </g>
+        </g>
+        <g transform="matrix(1.11663,0,0,1.11663,144.385,94.3617)">
+            <g id="_-text3005-012" serif:id="#text3005-01">
+                <text id="plate2" x="0px" y="0px" style="font-family:'RoadNumbers';font-size:106.68px;">7</text>
+            </g>
+        </g>
+        <g transform="matrix(1.08151,0,0,1.08151,455.921,72.7916)">
+            <g id="_-text30092" serif:id="#text3009">
+                <text id="plate7" x="0px" y="0px" style="font-family:'RoadNumbers';font-size:84.455px;">4</text>
+            </g>
+        </g>
+    </g>
+</svg>
